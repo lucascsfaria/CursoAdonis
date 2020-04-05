@@ -7,7 +7,8 @@ module.exports = {
         'Atomics': 'readonly',
         'SharedArrayBuffer': 'readonly',
         'use': true,
-        'module': true
+        'module': true,
+        'require': true
     },
     'parserOptions': {
         'ecmaVersion': 2018,
